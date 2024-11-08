@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('imagens/Leonardo_Phoenix_Create_an_image_about_educational_school_sett_3.jpg'); /* Replace 'your_image.jpg' with the path to your image */
+    background-size: cover;
+    background-repeat: no-repeat; 
+  
+    background-attachment: fixed;
+  }
+  
+  .container {
+    background-color: rgba(255, 255, 255, 
+   0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners   
+   */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 350px; /* Wider container */
+    margin: 0 auto;
+    text-align: justify;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    font-weight: bold; /* Bold labels */
+  }
+  
+  input {
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 
+   16px; /* Larger font size */
+  }
+  
+  .social-media {
+    margin-top: 20px;
+  }
+  
+  .social-media a {
+    margin: 0 10px;
+    color: #333;
+    font-size: 24px;
+  }
+ 
+.row{
+  text-align: justify;
+}
+
+.breadcrumbs::after,.button-group::after,.clearfix::after,.off-canvas-wrapper-inner::after,.pagination::after,.tabs::after,.title-bar::after,.top-bar::after,hr {
+    clear:both
+}
+.has-tip,.title-bar-title,caption {
+  font-weight:700
+}
+.tabs-title,.title-bar-left {
+  float:left
+}
+.title-bar {
+  background:#0a0a0a;
+  color:#fefefe;
+  padding:.5rem
+}
+.title-bar::after,.title-bar::before {
+  content:' ';
+  display:table
+}
+.menu-icon,.title-bar-title {
+  display:inline-block;
+  vertical-align:middle
+}
+.title-bar .menu-icon {
+  margin-left:.25rem;
+  margin-right:.5rem
+}
+.title-bar-right {
+  float:right;
+  text-align:right
+}
+.has-tip,.title-bar-title,caption {
+  font-weight:700
+}
+.menu-icon,.title-bar-title {
+  display:inline-block;
+  vertical-align:middle
+}
+.breadcrumbs::after,.button-group::after,.clearfix::after,.off-canvas-wrapper-inner::after,.pagination::after,.tabs::after,.title-bar::after,.top-bar::after,hr {
+  clear:both
+}
+.top-bar {
+  padding:.5rem
+}
+.top-bar::after,.top-bar::before {
+  content:' ';
+  background-color: #064f43;
+  display:table
+}
+.top-bar,.top-bar ul {
+  background-color:#074840
+}
+.top-bar input {
+  width:200px;
+  margin-right:1rem
+}
+@media screen and (min-width:40em) {
+  .top-bar-left {
+      float:left
+  }
+  .top-bar-right {
+      float:right
+  }
+}
+.medium-7 {
+  width:600px;
+  background-color: white;
+}
+.large-6 {
+  width:500px;
+}
+.top-bar div > div > ul > li:hover {
+  text-decoration: none;
+  color: #4CAF50; /* Cor verde no hover */
+  cursor: pointer;
+}
+.menu>li>a {
+  display:block;
+  padding:.7rem 1rem;
+  line-height:1;
+  background-color: transparent;
+  color: #c29a4c;
+  text-decoration: none;
+  cursor: pointer;
+}
+.menu-text {
+  line-height: 1;
+padding: .7rem 1rem;
+color: #f7df91;
+}
+ #inicial {
+    max-width:200%;
+    width: 500px;
+    height:auto;
+    -ms-interpolation-mode:bicubic;
+    display:inline-block
+}
+.lead {
+  font-size:125%;
+  line-height:1.6;
+  background-color: white;
+  text-align: center;
+}
